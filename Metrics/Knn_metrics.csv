@@ -1,0 +1,10 @@
+Metric,Value
+Training Time,0.11 seconds
+Testing Time,1.36 seconds
+Prediction Time,0.08 seconds
+Test Accuracy,0.89
+
+Detailed report
+Class,Precision,Recall,F1-Score,Support
+Normal,0.87,0.77,0.82,367.0
+Pneumonia,0.90,0.94,0.92,779.0
