@@ -1,0 +1,6 @@
+Metric,Value
+Test Accuracy,0.70
+
+Detailed report
+Class,Precision,Recall,F1-Score,Support
+Normal,0.90,0.49,0.64,148
